@@ -1,0 +1,43 @@
+
+
+
+
+[class="stAppViewMain main st-emotion-cache-bm2z3a ea3mdgi8"]{
+    background: #0f1116;
+}
+
+[class="st-emotion-cache-luriig ezrtsby2"]{
+    background: #0f1116;   
+}
+
+[data-testid="stBaseButton-header"]{
+    visibility: hidden;
+}
+
+::selection{
+    background: #7c73e6;
+    color: whitesmoke;
+}
+
+
+
+/* For small mobile devices (up to 600px) */
+@media only screen and (max-width: 600px) {
+    .h5-heading {
+        font-size: 17px; /* Adjust the size for smaller screens */
+    }
+}
+
+/* For larger mobile devices (up to 768px) */
+@media only screen and (max-width: 768px) {
+    .h5-heading {
+        font-size: 18px; /* Slightly larger for tablets */
+    }
+}
+
+/* For extra small mobile devices (up to 480px) */
+@media only screen and (max-width: 480px) {
+    .h5-heading {
+        font-size: 19px; /* Even smaller for very small screens */
+    }
+}
