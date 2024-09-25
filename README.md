@@ -12,3 +12,16 @@
         <li>Fast and efficient: It scrapes the top results from Coursera, so you get up-to-date and relevant course recommendations.</li>
     </ul>
     <p>It's the perfect tool to find your next online course with minimal hassle!</p>
+
+<hr>
+
+
+![Screenshot 2024-09-26 010453](https://github.com/user-attachments/assets/bc644f6c-a222-4bdd-bc23-200a8766b6a2)
+
+<h3>Libraries Used</h3>
+<ul>
+    <li>streamlit</li>
+    <li>pyautoscraper</li>
+    <li>beautifulsoup</li>
+    <li>requests</li>
+</ul>
