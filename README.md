@@ -1,5 +1,7 @@
 # Coursera Scraper webapp
 
+<a href="https://coursera-scraper-nishant-maity.streamlit.app/">app link</a>
+
 ![Screenshot 2024-09-26 010409](https://github.com/user-attachments/assets/201f6c44-faba-4738-9987-0c92da6c4a48)
 
 <h2>About App</h2>
