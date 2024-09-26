@@ -1,4 +1,4 @@
-# Coursera Scraper webapp
+# Coursera Scraper 
 
 <a href="https://coursera-scraper-nishant-maity.streamlit.app/">app link</a>
 
